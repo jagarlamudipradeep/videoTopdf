@@ -1,0 +1,16 @@
+{
+  "name": "videotopdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "videosTopdf.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-size": "^1.1.1",
+    "pdfkit": "^0.14.0"
+  }
+}
